@@ -12,7 +12,7 @@ For more information, refer to Bath’s **Penalties for Academic Misconduct** pa
 
 ## 📝 Courseworks
 
-To explore the commit history of any project, you can switch to the corresponding branch with the unit code by clicking the branch selector (currently displaying "master") at the top of the page.
+To explore any project, you can switch to the corresponding branch (master) by clicking the branch selector (currently displaying "main") at the top of the page.
 
 ### **First Year (2023-2024)**
 

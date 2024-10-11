@@ -1,0 +1,11 @@
+Guess 1: white
+Guess 2: white white
+Guess 3: white white
+Guess 4: white
+Guess 5: black white
+Guess 6: black white
+Guess 7: black black
+Guess 8: white
+Guess 9: white white
+Guess 10: 
+You lost. Please try again.
